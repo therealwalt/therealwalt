@@ -9,5 +9,5 @@
 
 ## 💭 GitHub Stats
 <a href="https://github.com/therealwalt">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealwalt&show_icons=true&hide_border=true&line_height=27&count_private=true&hide_title=true&bg_color=0d1117&theme=midnight-purple"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealwalt&show_icons=true&hide_border=true&line_height=27&count_private=true&hide_title=true&bg_color=0d1117&theme=midnight-purple&locale=en&include_all_commits=true"/>
 </a>
