@@ -5,7 +5,7 @@
 ## 💡 Hi there, I'm ωαƖᴛєя!
 · 👨🏻 I'm bot telegram developer. <br>
 · 🔭 I’m currently working on <a href="https://t.me/MorraCineseGameBot">@MorraCineseGameBot</a>. <br>
-· 💬 You can contact me through my bot: <a href="https://t.me/ContactWalBot">@ContactWaltBot</a>.
+· 💬 You can contact me through my bot: <a href="https://t.me/TheRealWaltBot">@TheRealWaltBot</a>.
 
 ## 💭 GitHub Stats
 <a href="https://github.com/therealwalt">
